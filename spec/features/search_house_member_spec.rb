@@ -6,6 +6,7 @@ RSpec.describe 'as a user' do
       # As a user
       # When I visit "/"
       visit root_path
+      save_and_open_page
       # And I select "Greyjoy" from the dropdown
       select "Greyjoy", :from => "house"
       # And I click on "Get Members"
