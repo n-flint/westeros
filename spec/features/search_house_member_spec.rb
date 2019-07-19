@@ -24,14 +24,3 @@ RSpec.describe 'as a user' do
     end
   end
 end
-
-
-#  You are the new web developer for Westeros. The IT staff has provided an API where you can get a listing of house members.
-
-# Documentation: `https://westerosapi.herokuapp.com/`
-
-# You are to create an app and complete this following user story:
-
-
-
-# Your key is: egg
